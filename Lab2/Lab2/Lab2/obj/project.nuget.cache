@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GbWFVg3RtQB9e6zVHAQJe/KcazoTjxASC5x5L9JCzcDLqG25FbY0R93+MCBWupT1TkE0qBO/bJ4cbZNLv8vfLQ==",
+  "success": true,
+  "projectFilePath": "D:\\KPI\\3Course2Semestr\\pal\\Security_IvanIA12\\Лаб2\\Lab2\\Lab2\\Lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\illia\\.nuget\\packages\\bogus\\35.5.0\\bogus.35.5.0.nupkg.sha512",
+    "C:\\Users\\illia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\illia\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\illia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\illia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

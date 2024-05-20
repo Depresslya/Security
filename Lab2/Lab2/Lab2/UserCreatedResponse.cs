@@ -1,0 +1,1 @@
+﻿public record UserCreatedResponse(bool Blocked, DateTime Created_At, string Email, string Family_Name, string Given_Name, string User_Id);
