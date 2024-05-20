@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "auth": "^1.0.2",
+    "body-parser": "^1.20.2",
+    "Buffer": "^0.0.0",
+    "express": "^4.19.2",
+    "express-jwt": "^8.4.1",
+    "express-oauth2-jwt-bearer": "^1.6.0",
+    "jsonwebtoken": "^9.0.2",
+    "jwks-rsa": "^3.1.0",
+    "request": "^2.88.2",
+    "uuid": "^9.0.1"
+  }
+}
